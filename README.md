@@ -5,3 +5,7 @@
 # from GitHub
 
 プルのtestを行います。
+
+# from command line
+
+プッシュのtestを行います。
