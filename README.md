@@ -9,3 +9,7 @@
 # from command line
 
 プッシュのtestを行います。
+
+# from github 
+
+プルのtestを行います。
